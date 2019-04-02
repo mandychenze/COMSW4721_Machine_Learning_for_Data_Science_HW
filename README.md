@@ -4,6 +4,6 @@ Implementation of Machine Learning algorithms using numpy in Python. The exercis
 
 The algorithms implemented are:
 
-1. Logistic Regresssion (hw2)
+1. Logistic Regresssion: Steepest Ascent and Newton Method (hw2)
 2. K-Nearest-Neighbors Classifier (hw2)
 3. Naive Bayes Classifier (hw2)
